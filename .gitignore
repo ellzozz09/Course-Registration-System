@@ -1,2 +1,9 @@
-".vs/" 
-"CourseRegistrationSystem\.vs\" 
+# Visual Studio temporary files
+.vs/
+*.aps
+
+# Other common VS files to ignore (optional)
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
